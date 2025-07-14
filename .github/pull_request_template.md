@@ -7,14 +7,11 @@
 ## Any background context you want to provide?
 
 [comment]: <> (Any information regarding the PR that the reviewer should know like implementation details)
-:book:
 
 ## Dependencies
 
 [comment]: <> (Any database, AWS or security dependencies)
-:memo:
 
 ## Screenshots
 
 [comment]: <> (Any UI Screenshots, API payloads and swagger docs)
-:camera:
