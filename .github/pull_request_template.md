@@ -1,17 +1,13 @@
-## What does this PR do?
+## Summary (Plain English)
 
-[comment]: <> (A brief explanation synthesizing the feature, bug or fix)
+> REQUIRED: In 1–2 sentences, explain the purpose of this deployment in simple terms.
+> Do not use technical changelog language.
 
--
+Example:
+This deployment fixes an issue where users could not complete checkout and includes minor performance improvements to the product API.
 
-## Any background context you want to provide?
+---
 
-[comment]: <> (Any information regarding the PR that the reviewer should know like implementation details)
+## Changelog (Technical Details)
 
-## Dependencies
-
-[comment]: <> (Any database, AWS or security dependencies)
-
-## Screenshots
-
-[comment]: <> (Any UI Screenshots, API payloads and swagger docs)
+[Existing automated or technical changelog goes here]
