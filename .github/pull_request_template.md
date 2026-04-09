@@ -1,5 +1,5 @@
-## Summary (Plain English)
+## Summary
 
 ---
 
-## Changelog (Technical Details)
+## Changelog
